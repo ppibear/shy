@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "shy",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ddb885be-19ef-4d0f-8c8b-0862c9599a5f",
+			"database_name": "shy-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
